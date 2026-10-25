@@ -1,0 +1,6 @@
+{
+  "name": "Reset — Minimalist Personal Reset & Habit Dashboard",
+  "description": "A Notion-inspired minimalist dark-mode personal reset app with streak tracking, 3 customizable daily habits, and instant urge logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
